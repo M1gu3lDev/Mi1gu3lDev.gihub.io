@@ -1,18 +1,17 @@
 # Blog MiguelDev
 
----
+
 
 > Blog dedicado a documentação de meus estudos e projetos
-> 
 
 # Sobre mim:
 
----
+
 
 ![image.png](image.png)
 
 > CyberSegurança - Educação - Python - Robôtica - IOT - Desenvolvimento de Games
-> 
+>
 
 Sou graduando em Licenciatura em Ciência da Computação pela UFPB – Campus IV. Apaixonado por programação, tenho interesse nas áreas de desenvolvimento de software, educação, robótica e cibersegurança. Programar faz parte da minha rotina diária; tenho conhecimentos básicos em Java e Python, com foco atual no aprofundamento em Python.
 
